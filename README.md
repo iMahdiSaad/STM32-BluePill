@@ -2,7 +2,7 @@
 Design for Using STM32 for Various Uses. 
 # STM32F411CEU6 with Micro USB, IMU, and SWD
 
-![3D Layout](3D Layout.jpg)
+![3D Layout](3D Layout.JPG)
 
 ## Project Description
 
