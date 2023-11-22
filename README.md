@@ -1,5 +1,5 @@
 # STM32-BluePill
-Design for Using STM32 for Various Uses. 
+Design for Using STM32 for Various applications , mostly IoT related smart applications. It's a dev board where it's minimised. 
 # STM32F411CEU6 with Micro USB, IMU, and SWD
 
 ![3D Layout](3D Layout.jpg)
@@ -67,7 +67,18 @@ This project features an STM32F411CEU6 microcontroller board equipped with a mic
 
 ## Requirements
 
-- [List any hardware or software requirements here.]
+STM32CubeIDE integrates STM32 configuration and project creation functionalities from STM32CubeMX to offer all-in-one tool experience and save installation and development time. After the selection of an empty STM32 MCU or MPU, or preconfigured microcontroller or microprocessor from the selection of a board or the selection of an example, the project is created and initialization code generated. At any time during the development, the user can return to the initialization and configuration of the peripherals or middleware and regenerate the initialization code with no impact on the user code.
 
-[Continue with additional sections.]
+## Instllation 
+
+It can be linked and  installed for various IDE of your choice , STM IDE is recommended. 
+
+## Usage
+
+It supports various IoT smart applications and learning extension modules to be connected with. 
+
+
+## Acknowledgment 
+AA
+
 
