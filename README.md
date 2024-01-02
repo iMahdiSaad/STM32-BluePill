@@ -4,7 +4,7 @@ PCB design process going through the schematic, layout, and routing of a 'barebo
 
 # STM32F411CEU6 with Micro USB, IMU, and SWD
 
-![3D Image](3DLayout.PNG)
+![3D Image](3DLayout.JPG)
 
 
 ## Project Description
