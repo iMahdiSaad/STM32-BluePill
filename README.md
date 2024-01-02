@@ -1,5 +1,7 @@
 # STM32-BluePill
-Design for Using STM32 for Various applications , mostly IoT related smart applications. It's a dev board where it's minimised. 
+
+PCB design process going through the schematic, layout, and routing of a 'barebones' STM32F4-based PCB including USB, a sensor, GPIO header, and small power supply circuitry in Altium Designer. A devlopment Board Design Using STM32 for Various applications ,mostly IoT related smart applications. It's a dev board where it's minimised. 
+
 # STM32F411CEU6 with Micro USB, IMU, and SWD
 
 ![3D Layout](3D Layout.jpg)
